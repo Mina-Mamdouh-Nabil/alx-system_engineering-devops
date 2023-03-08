@@ -1,1 +1,1 @@
-0-this script is for printing the current working directory
+1-this script is for listing the content of the directory
